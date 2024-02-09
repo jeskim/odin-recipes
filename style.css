@@ -1,0 +1,18 @@
+h1 {
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    color: chartreuse;
+}
+
+ul {
+    background-color: blanchedalmond;
+}
