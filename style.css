@@ -3,16 +3,29 @@ h1 {
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
+    color:rgb(164, 27, 27)
 }
 
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 60px;
+    margin: auto;
 }
 
 a {
     color: chartreuse;
+
+}
+
+a:hover {
+    background-color: rgb(249, 174, 146);
 }
 
 ul {
-    background-color: blanchedalmond;
+    padding: 20px;
+    background-color: rgb(255, 244, 228);
+}
+
+img {
+    width: 100%;
 }
